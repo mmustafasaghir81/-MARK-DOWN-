@@ -1,4 +1,3 @@
-
 # 1-Block of Word
 ## Heading 1
 ### Heading 2
@@ -10,7 +9,7 @@
 > the block of special text the block of special text the block of special text the block of special text
 ---
 # 3-Line Break
-This is a 40 days long course Data Science with Python AKA\
+This is a long course AI for PIACI Institue (Student of Q2)\
 Python for Data Science\
 This is Second Line
 ---
